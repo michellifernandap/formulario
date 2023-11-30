@@ -1,0 +1,54 @@
+
+body{
+    font-family: 'Comfortaa', cursive;
+    overflow-x: hidden;
+    } 
+
+.cabecera {
+    background: #e0a7b6;
+
+}
+
+.navbar {
+    background: #e0a7b6;
+
+}
+
+.boton{
+    background: #e0a7b6;
+    border: none;
+}
+
+.b{
+    background:  #F6F4EE;
+    border: none;
+
+}
+
+
+#contenedor-formulario {
+    background-color: #E1DED7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #aaa69b; 
+  }
+
+  .table-container {
+    box-shadow: 0 0 10px #aaa69b;
+  }
+ 
+
+  .table-container table {
+    background-color: #f8f8f8; /* Puedes ajustar este color según tus preferencias */
+  }
+  
+
+footer {
+    background: #e0a7b6;
+    min-height: 100px;;
+}
+
+footer p{
+    color:#f4e5e8;
+    text-align:center;
+}
